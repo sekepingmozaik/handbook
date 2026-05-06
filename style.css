@@ -877,7 +877,7 @@ label {
 .editor-canvas-area {
   display: flex;
   flex-direction: column;
-  overflow: hidden;
+  overflow: visible;
   background: var(--bg-primary);
 }
 
